@@ -31,16 +31,16 @@ layout: default
     {% endif %}
   </div>
   <div class="block">
-    {% if site.json.address %}
-    {% if site.json.address.first %}
-    <p><span class="array-key">address</span></p>
+    {% if site.json.interests %}
+    {% if site.json.interests.first %}
+    <p><span class="array-key">interests</span></p>
     <div class="array">
-      {% for i in site.json.address %}
+      {% for i in site.json.interests %}
       <p class="array-attr">{{ i }}</p>
       {% endfor %}
     </div>
     {% else %}
-    <p><span class="key">address</span><span class="attr">{{ site.json.address }}</span></p>
+    <p><span class="key">interests</span><span class="attr">{{ site.json.interests }}</span></p>
     {% endif %}
     {% endif %}
   </div>
