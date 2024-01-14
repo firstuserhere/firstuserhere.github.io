@@ -12,10 +12,10 @@ json:
     - I'm also known as firstuserhere. 
     - Welcome to my website
   contact:
-    website: https://mechinterp.com
     email_primary: 1stuserhere@gmail.com
     email_secondary: firstuserhere@proton.me
   profiles:
+    mechanistic interpretability: https://mechinterp.com
     twitter: https://twitter.com/firstuserhere
     github: https://github.com/firstuserhere
 
