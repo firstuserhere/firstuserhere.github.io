@@ -1,9 +1,9 @@
 # this is only for search engines, it does not appear in the home
 # as long as the json variables name and description are provided
-title: Hacked Jekyll
-description: Jekyll microtheme that looks like JSON
-baseurl: ""
-url: https://hacked-jekyll.netlify.app
+title: Kunvar Thaman
+description: 1-page website that contains links to kunvar's profiles
+baseurl: "https://firstuserhere.github.io"
+url: https://firstuserhere.github.io
 
 # this information is shown on the homepage, all fields are optional and
 # can be declared either as a single string or as a string array/hash
@@ -16,6 +16,7 @@ json:
   contact:
     email_primary: 1stuserhere@gmail.com
     email_secondary: firstuserhere@proton.me
+
   website: https://mechinterp.com
   profiles:
     twitter: https://twitter.com/firstuserhere
