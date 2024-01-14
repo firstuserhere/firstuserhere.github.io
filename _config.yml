@@ -1,5 +1,3 @@
-# this is only for search engines, it does not appear in the home
-# as long as the json variables name and description are provided
 title: Kunvar Thaman
 description: 1-page website that contains links to kunvar's profiles
 baseurl: "https://firstuserhere.github.io"
