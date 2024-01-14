@@ -8,9 +8,13 @@ url: https://firstuserhere.github.io
 json:
   name: Kunvar Thaman
   description:
-    - Hello!
+    - Hello! I'm Kunvar.
     - I'm also known as firstuserhere. 
     - Welcome to my website
+    - Go to mechinterp.com for more stuff
+  interests:
+    - Machine Learning
+    - Reading books
   contact:
     email_primary: 1stuserhere@gmail.com
     email_secondary: firstuserhere@proton.me
