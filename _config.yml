@@ -19,9 +19,12 @@ json:
     email_primary: 1stuserhere@gmail.com
     email_secondary: firstuserhere@proton.me
   profiles:
-    mechanistic interpretability: https://mechinterp.com
+    Personal website: https://mechinterp.com
     twitter: https://twitter.com/firstuserhere
     github: https://github.com/firstuserhere
+    discord: firstuserhere
+    manifold: https://manifold.markets/firstuserhere
+
 
 exclude:
   - LICENSE
