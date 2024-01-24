@@ -25,11 +25,13 @@ json:
     email_primary: 1stuserhere@gmail.com
     email_secondary: firstuserhere@proton.me
   profiles:
-    mech interp: https://mechinterp.com
+    website: https://kunvarthaman.com
     twitter: https://twitter.com/firstuserhere
     github: https://github.com/firstuserhere
     discord: firstuserhere
     manifold: https://manifold.markets/firstuserhere
+    goodreads: https://goodreads.com/firstuserhere 
+    lesswrong: https://lesswrong.com/users/1stuserhere
 
 
 exclude:
