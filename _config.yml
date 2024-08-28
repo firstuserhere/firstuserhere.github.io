@@ -9,21 +9,22 @@ json:
   name: Kunvar Thaman
   description:
     - Hello! I'm Kunvar.
-    - Some of you know me as firstuserhere.
+    - I'm a machine learning engineer.
     - I take apart and analyze Neural networks.
     - Sometimes I put them back together in clever ways.
   interests:
     - Machine Learning
-    - Interpretability
+    - Mechanistic Interpretability
     - Reading books
     - running, biking, jumping rope, lifting, backpacking
     - Exploring hidden corners of the internet
     - Writing (fiction as well as non-fiction)
     - Listening to classical music
-    - Geography, and history (especially ancient greece)
+    - Geography and History (especially pre-history)
   contact:
-    email_primary: 1stuserhere@gmail.com
-    email_secondary: firstuserhere@proton.me
+    person: 1stuserhere@gmail.com
+    for collaborations: kunvar@mechinterp.com
+    work_email: kunvar@stdint.com
   profiles:
     website: https://kunvarthaman.com
     twitter: https://twitter.com/firstuserhere
@@ -31,6 +32,7 @@ json:
     discord: firstuserhere
     goodreads: https://goodreads.com/firstuserhere 
     lesswrong: https://lesswrong.com/users/1stuserhere
+    greaterwrong: https://greaterwrong.com/users/1stuserhere
 
 
 exclude:
