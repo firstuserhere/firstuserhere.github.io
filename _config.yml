@@ -13,25 +13,23 @@ json:
     - I take apart and analyze Neural networks.
     - Sometimes I put them back together in clever ways.
   interests:
-    - Machine Learning research
-    - Mechanistic Interpretability
-    - Reading books
-    - Running, biking, climbing and hiking up mountains, lifting heavy weights
-    - Exploring various cultures, cities (preferably by walking - nightwalking is fun!), and partying
+    - Training large scale neural networks of various sorts
+    - Mechanistic Interpretability research
+    - Reading books (though this has gone down significantly over the years - check my Goodreads!)
+    - Running, biking, climbing and hiking up mountains, lifting heavy weights (checkout my Strava!)
+    - Exploring various cultures, cities (nightwalking is fun!), and dancing
     - Listening to classical music
     - Geography and History (especially pre-history)
   contact:
     personal: 1stuserhere@gmail.com
     collaborations: kunvar@mechinterp.com
-  profiles:
-    website: https://kunvarthaman.com
+  social media:
     twitter: https://x.com/firstuserhere
     github: https://github.com/firstuserhere
     discord: https://discordapp.com/users/1060971001002872843
     strava: https://www.strava.com/athletes/111945782
     goodreads: https://goodreads.com/firstuserhere 
     lesswrong: https://lesswrong.com/users/1stuserhere 
-
 
 exclude:
   - LICENSE
