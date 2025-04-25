@@ -23,7 +23,7 @@ json:
   contact:
     personal: 1stuserhere@gmail.com
     collaborations: kunvar@mechinterp.com
-  social-media:
+  social_media:
     twitter: https://x.com/firstuserhere
     github: https://github.com/firstuserhere
     discord: https://discordapp.com/users/1060971001002872843
