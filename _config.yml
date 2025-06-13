@@ -32,6 +32,7 @@ json:
     strava: https://www.strava.com/athletes/111945782
     goodreads: https://goodreads.com/firstuserhere 
     lesswrong: https://lesswrong.com/users/1stuserhere 
+    google_scholar: https://scholar.google.com/citations?user=kOOWGPEAAAAJ 
 
 exclude:
   - LICENSE
