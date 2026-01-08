@@ -15,6 +15,16 @@ main {
   transform: translate(-50%, -50%);
   text-transform: lowercase;
 
+  // Fix for mobile: prevent content from being cut off at top when text wraps
+  @media (max-width: 575px) {
+    position: relative;
+    top: auto;
+    left: auto;
+    transform: none;
+    padding: 2rem 1rem;
+    overflow-y: auto;
+  }
+
   @media (min-width: 576px) {
     font-size: 18px;
     width: 80%;
